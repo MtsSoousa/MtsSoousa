@@ -1,12 +1,22 @@
-### Olá! Eu sou o Matheus sousa 🖔
+# Olá! Sou o Matheus de Sousa
 
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://matheus.soousa.br)
+<div align="center">
+    
+![MtsSoousa GitHub stats](https://github-readme-stats.vercel.app/api?username=MtsSoousa&show_icons=true&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MtsSoousa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![MtsSoousa GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000))
-
-## Tecnologias que eu uso no meu dia
+</div>
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/cancado.gif">
+    
+##
+    
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/MtsSoousa/)
+     
 </div>
