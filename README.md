@@ -26,10 +26,8 @@
 
 <div> 
   <br>
-  <a href="https://instagram.com/robert_daanillo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "robertdanilo2.rd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https:https://www.linkedin.com/in/robert-danilo-896673171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/RD0705/RD0705/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://instagram.com/matheus.soousa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+ ![Snake animation](https://github.com/MtsSoousa/RD0705/blob/output/github-contribution-grid-snake.svg)
  
 </div>
