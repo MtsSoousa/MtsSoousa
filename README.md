@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Matheus sousa 🖔
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Matheus.soousa/)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://matheus.soousa.br)
 
-![MtsSoousa GitHub stats](![MtsSoousa GitHub stats](https://github-readme-stats.vercel.app/api?username=MtsSoousa&show_icons=true&bg_color=00000000))
+![MtsSoousa GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000))
 
 ## Tecnologias que eu uso no meu dia
 
