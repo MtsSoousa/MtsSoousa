@@ -7,7 +7,6 @@
   - Estudando HTML | CSS | SQL | PHP | PYTHON
   - Tenho 19 anos
   - Apaixonado em DEV
-  - Cursando SI 
   
   <br/>
   <br/>
@@ -22,7 +21,10 @@
 
 <!--imagens-->
 
-<div style="display: inline_block"><br>
+ <br/>
+ 
+  <div style="display: inline_block"><br>
+  
   <img align="center" alt="Rd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
@@ -34,7 +36,11 @@
 
 <div> 
   <br>
+  <br>
+  <br>
+ 
   <a href="https://instagram.com/matheus.soousa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/matheus-de-sousa-cruz-556190234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 ![Snake animation](https://github.com/marcelokkkj/marcelokkkj/blob/output/github-contribution-grid-snake.svg) 
  
