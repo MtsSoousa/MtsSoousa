@@ -1,6 +1,6 @@
  ## Meu nome é Matheus de Sousa e eu estou Atuando na área na Disdal
 
-  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/matheus-de-sousa-cruz-556190234/"><i>Matheus de Sousa Cruz</i></a> e eu estudo Sistema de informação </p>
+  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/matheus-de-sousa-cruz-556190234/"><i>Matheus de Sousa Cruz</i></a> e eu estudo Sistemas de informação </p>
   🖔 Atualmente trabalho na área <br/>
   🖎 Estudando HTML|CSS|SQL|PHP|PYTHON
   <br/>
