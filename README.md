@@ -2,13 +2,12 @@
  
   <p align="center">Olá! Tudo bem? </p>
   <p align="center">Meu nome é <a href="https://www.linkedin.com/in/matheus-de-sousa-cruz-556190234/"><i>Matheus de Sousa Cruz</i></a> e eu estudo Sistemas de informação na UDF | Universidade do Distrito Federal </p>
-  
-  - Atualmente trabalho na área <br/>
-  - Estudando HTML | CSS | SQL | PHP | PYTHON
-  - Tenho 19 anos
-  - Apaixonado em DEV
-  
   <br/>
+  <br/>
+ - Atualmente trabalho na área <br/>
+ - Estudando HTML | CSS | SQL | PHP | PYTHON <br/>
+ - Tenho 19 anos <br/>
+ - Apaixonado em DEV <br/>
   <br/>
   <br/>
   
@@ -16,7 +15,9 @@
 
 <div align="center">
   <a href="https://github.com/MtsSoousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MtsSoousa&show_icons=true&theme=default#gh-light-mode-only"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MtsSoousa&show_icons=true&theme=default#gh-light-mode-only"/>
+    
+   </a>
  </div>
 
 <!--imagens-->
