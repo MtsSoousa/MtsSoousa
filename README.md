@@ -1,14 +1,14 @@
 ### Olá! Eu sou o Matheus Sousa
 
-  🖔 Atualmente trabalho na área
+  🖔 Atualmente trabalho na área <br/>
   🖎 Estudando HTML|CSS|SQL|PHP
- 
+
 
 <!--Status -->
 
 <div align="center">
   <a href="https://github.com/MtsSoousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MtsSoousa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MtsSoousa&show_icons=true&theme=default#gh-light-mode-only"/>
  </div>
 
 <!--imagens-->
