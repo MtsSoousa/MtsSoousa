@@ -1,9 +1,14 @@
 
  
   <p align="center">Olá! Tudo bem? </p>
-  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/matheus-de-sousa-cruz-556190234/"><i>Matheus de Sousa Cruz</i></a> e eu estudo Sistemas de informação </p>
-  🖔 Atualmente trabalho na área <br/>
-  🖎 Estudando HTML|CSS|SQL|PHP|PYTHON
+  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/matheus-de-sousa-cruz-556190234/"><i>Matheus de Sousa Cruz</i></a> e eu estudo Sistemas de informação na UDF | Universidade do Distrito Federal </p>
+  
+  - Atualmente trabalho na área <br/>
+  - Estudando HTML | CSS | SQL | PHP | PYTHON
+  - Tenho 19 anos
+  - Apaixonado em DEV
+  - Cursando SI 
+  
   <br/>
   <br/>
   <br/>
