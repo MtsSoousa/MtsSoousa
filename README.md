@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Matheus sousa 🖔
 
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://matheus.soousa)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/MtsSoousa/)
 
 ![MtsSoousa GitHub stats](https://github-readme-stats.vercel.app/api?username=MtsSoousa&show_icons=true&theme=transparent)
 
