@@ -16,7 +16,7 @@
 <div align="center">
   <a href="https://github.com/MtsSoousa">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MtsSoousa&show_icons=true&theme=default#gh-light-mode-only"/>
-    
+  <img height="200em " src="https://github-readme-stats.vercel.app/api/top-langs/?username=RD0705&layout=true&theme=default#gh-light-mode-only"/>
    </a>
  </div>
 
@@ -32,6 +32,7 @@
   <img align="center" alt="Rd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Rd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Rd-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
 </div>
 
