@@ -17,6 +17,7 @@
   <a href="https://github.com/MtsSoousa">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MtsSoousa&show_icons=true&theme=default#gh-light-mode-only"/>
   <img height="200em " src="https://github-readme-stats.vercel.app/api/top-langs/?username=RD0705&layout=true&theme=default#gh-light-mode-only"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=MtsSoousa&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D">
    </a>
  </div>
 
@@ -40,7 +41,7 @@
   <br>
   <br>
   <br>
- 
+ <h3 align="center">📩 Meus Perfis Sociais</h3>
   <a href="https://instagram.com/matheus.soousa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/matheus-de-sousa-cruz-556190234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
