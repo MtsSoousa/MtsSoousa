@@ -1,7 +1,7 @@
 
  
   <p align="center">Olá! Tudo bem? </p>
-  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/matheus-de-sousa-cruz-556190234/"><i>Matheus de Sousa Cruz</i></a> e eu estudo Sistemas de informação na UDF | Universidade do Distrito Federal </p>
+  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/matheus-de-sousa-cruz-556190234/"><i>Matheus de Sousa Cruz</i></a> e eu estudo Sistemas de informação na UDF | Universidade do Distrito Federal. </p>
   <br/>
   <br/>
  ➬ Atualmente trabalho na área <br/>
