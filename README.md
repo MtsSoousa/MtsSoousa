@@ -5,7 +5,7 @@
   <br/>
   <br/>
  ➬ Atualmente trabalho na área <br/>
- ➬ Estudando HTML | CSS | SQL | PHP | PYTHON <br/>
+ ➬ Estudando HTML | CSS | SQL | PHP | PYTHON | Js  <br/>
  ➬ Tenho 19 anos <br/>
  ➬ Apaixonado em DEV <br/>
   <br/>
