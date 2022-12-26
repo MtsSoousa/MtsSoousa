@@ -1,16 +1,33 @@
 
  
   <p align="center">Olá! Tudo bem? </p>
-  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/matheus-de-sousa-cruz-556190234/"><i>Matheus de Sousa Cruz</i></a> e eu estudo Sistemas de informação na UDF | Universidade do Distrito Federal. </p>
-  <br/>
-  <br/>
- ➬ Atualmente trabalho na área <br/>
- ➬ Estudando HTML | CSS | SQL | PHP | PYTHON | Js  <br/>
- ➬ Tenho 19 anos <br/>
- ➬ Apaixonado em DEV <br/>
+  <p align="center">Meu nome é <a href="https://www.linkedin.com/in/matheus-de-sousa-cruz-556190234/"><i>Matheus de Sousa Cruz</i></a> e eu estudo na UDF | Universidade do Distrito Federal. </p>
   <br/>
   <br/>
   
+  - 📈 Amo tecnologias, mas adoro ainda mais os resultados e transformações de negócios que ela pode proporcionar, escolhendo a **tecnologia ideal** para o **problema certo** para criar soluções de alto valor.
+
+- 🎓 Cursando em **Sistemas de Informação** e continuo me atualizando nas tendências de tecnologias do mercado através de cursos técnicos, certificações.
+
+
+***
+## 🛠 &nbsp;Tech Stack
+
+### 👩‍💻 &nbsp;Back-End
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+
+### 📚 &nbsp;Front-end
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
+### ⚡ &nbsp;Database 
+![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=1572B6)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+
+## 📊 &nbsp;Stats
+    
 <!--Status -->
 
 <div align="center">
@@ -30,8 +47,6 @@
   <img align="center" alt="Rd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Rd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Rd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rd-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
