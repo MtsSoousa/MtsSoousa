@@ -1,5 +1,8 @@
 
- 
+<div align="center">
+   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+</div>
+  
   <p align="center">Olá! Tudo bem? </p>
   <p align="center">Meu nome é <a href="https://www.linkedin.com/in/matheus-de-sousa-cruz-556190234/"><i>Matheus de Sousa Cruz</i></a> e eu estudo na UDF | Universidade do Distrito Federal. </p>
   <br/>
